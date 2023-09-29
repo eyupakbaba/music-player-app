@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\myMusicPlayer\myMusicPlayer\bin\Debug\myMusicPlayer.exe.config
+C:\Users\HP\source\repos\myMusicPlayer\myMusicPlayer\bin\Debug\myMusicPlayer.exe
+C:\Users\HP\source\repos\myMusicPlayer\myMusicPlayer\bin\Debug\myMusicPlayer.pdb
+C:\Users\HP\source\repos\myMusicPlayer\myMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\source\repos\myMusicPlayer\myMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\source\repos\myMusicPlayer\myMusicPlayer\obj\Debug\myMusicPlayer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\myMusicPlayer\myMusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\source\repos\myMusicPlayer\myMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\source\repos\myMusicPlayer\myMusicPlayer\obj\Debug\myMusicPlayer.csproj.ResolveComReference.cache
+C:\Users\HP\source\repos\myMusicPlayer\myMusicPlayer\obj\Debug\myMusicPlayer.Form1.resources
+C:\Users\HP\source\repos\myMusicPlayer\myMusicPlayer\obj\Debug\myMusicPlayer.Properties.Resources.resources
+C:\Users\HP\source\repos\myMusicPlayer\myMusicPlayer\obj\Debug\myMusicPlayer.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\myMusicPlayer\myMusicPlayer\obj\Debug\myMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\myMusicPlayer\myMusicPlayer\obj\Debug\myMusicPlayer.exe
+C:\Users\HP\source\repos\myMusicPlayer\myMusicPlayer\obj\Debug\myMusicPlayer.pdb
